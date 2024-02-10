@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kartikya Gupta</h1>
-<h3 align="center">Data Scientist & Researcher from India</h3>
+<h3 align="center">Data Scientist & Researcher from 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikyagupta&label=Profile%20views&color=0e75b6&style=flat" alt="kartikyagupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikyagupta" alt="kartikyagupta" /></a> </p>
 
-- 🌱 I’m currently learning **Jax, pytest, Jenkins**
+- 🌱 I’m currently learning **Jax, pytest and Jenkins**
 
-- 💬 Ask me about **TensorFlow, Streamlit, GCP**
+- 💬 Ask me about **TensorFlow, Streamlit or GCP**
+
+-  **🌟 FACT 👏 - Enhance Your Repo Viewing Experience by typing vscode.dev/ before any repo's URL 🌟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
