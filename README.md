@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kartikya Gupta</h1>
 <h3 align="center">Data Scientist & Researcher from 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikyagupta&label=Profile%20views&color=0e75b6&style=flat" alt="kartikyagupta" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikyagupta&label=Profile%20views&color=0e75b6&style=flat" alt="kartikyagupta" /> </p> -->
 
-# <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikyagupta" alt="kartikyagupta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikyagupta" alt="kartikyagupta" /></a> </p>
 
 - 🌱 I’m currently learning **Jax, pytest and MLflow**
 
