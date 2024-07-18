@@ -9,12 +9,12 @@
 
 - 💬 Ask me about **TensorFlow, Streamlit or GCP**
 
--  **🌟 FACT 👏 - Enhance Your Repo Viewing Experience by typing vscode.dev/ before any repo's URL 🌟**
+-  **🌟 Enhance Your Repo Viewing Experience by typing vscode.dev/ before any repo's URL 🌟**
 
 <h3 align="left">Connect with me🤝:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kartikyagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikyagupta" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kartikyagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kartikyagupta" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/catuska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kartikyagupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kartikyagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikyagupta" height="30" width="40" /></a>
 </p>
 
